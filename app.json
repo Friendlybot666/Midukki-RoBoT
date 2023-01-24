@@ -13,19 +13,19 @@
     "website": "https//telegram.dog/Midukki_RoBoT",
     "repository": "https://github.com/PR0FESS0R-99/Midukki-RoBoT",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {5440002317:AAFmyWTiXTtjh-deeaFw4q-gTzWFn7TD9Cs}
             "description": "Your bot token.",
-            "value": "",
+            "value": "5440002317:AAFmyWTiXTtjh-deeaFw4q-gTzWFn7TD9Cs",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {15109559}
             "description": "Get this value from telegram.org",
-            "value": "",
+            "value": "15109559",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {75f87cab155bf35a21e831b91a4b7148}
             "description": "Get this value from telegram.org",
-            "value": "",
+            "value": "75f87cab155bf35a21e831b91a4b7148",
             "required": true
         },
         "CHANNELS": {
